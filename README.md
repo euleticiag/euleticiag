@@ -2,7 +2,7 @@
 
 
 
-- 🌱 Atualmente sou estudante de Front-end
+- 🌱 Atualmente estudante 
 - 😄 Pronouns: ela/dela
 
 <div align="center">
