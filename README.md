@@ -1,12 +1,11 @@
-### Olá, eu sou Letícia Nascimento
+# Olá, este é meu Perfil do GitHub! 👋
 
+## Sobre Mim
+- 🌱 Atualmente sou estudante universitária, com estudos focados na área de dados.
+- 💼 Trabalho como [estagiário de banco de dados] na [procenge].
 
+## Contato
 
-- 🌱 Atualmente estudante 
-- 😄 Pronouns: ela/dela
+- 📧 Email: myleticia496@gmail.com
+- 💼 LinkedIn: [Letícia Nascimento]([https://www.linkedin.com/in/seuperfil/](https://www.linkedin.com/in/leticiagn/)https://www.linkedin.com/in/leticiagn/)
 
-  <div>
-  <a href = "mailto:myleticia496@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/leticia-nascimento-4722121a5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  </div>
