@@ -1,9 +1,10 @@
-# Olá, este é meu Perfil do GitHub! 👋
+# Hello, this is my GitHub Profile! 👋
 
-## Sobre Mim
-- 🌱 Atualmente sou estudante universitária, com estudos focados na área de dados.
+## About Me
+- 🌱 Currently, I am a university student and a database intern.
+- 🔍 My studies are focused on the data field, exploring and enhancing my skills in data analysis and management.
+- 🚀 I am excited to learn more about the latest technologies and practices in the data field.
 
-## Contato
+## Contact
 - 📧 Email: myleticia496@gmail.com
-- 💼 LinkedIn: [Letícia Nascimento]([https://www.linkedin.com/in/seuperfil/](https://www.linkedin.com/in/leticiagn/)https://www.linkedin.com/in/leticiagn/)
-
+- 💼 LinkedIn: [Letícia Nascimento](https://www.linkedin.com/in/leticiagn/)
